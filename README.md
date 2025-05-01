@@ -1,16 +1,16 @@
-# saas-fast-nocode
+# saas-fast-vibe
 
-Launch secure and reliable SaaS products in no time with no code ⚡️
+Launch SaaS products FAST in no time with vibe coding ⚡️
 
 
-## Why This Boilerplate?
+## Why this boilerplate?
 
 - Get your SaaS up and running in seconds! ⏱️
 - Keep your app secure with ease! 🛡️
 - Perfect for everyone - if you can click, you can create! 💻
 
 
-## Key Features
+## Key features
 
 - Start in just a few clicks! 🖱️
 - Everything you need is included! 📦
@@ -18,17 +18,17 @@ Launch secure and reliable SaaS products in no time with no code ⚡️
 - Looks great on any device! 📱
 
 
-## Getting Started
+## Getting started
 
 - Clone
    ```bash
-   git clone https://github.com/mctrinh/saas-fast-nocode.git
+   git clone https://github.com/mctrinh/saas-fast-vibe.git
    ```
 
 - Build
    ```bash
-   cd saas-fast-nocode
-   print("Let's write your no-code there! 💡")
+   cd saas-fast-vibe
+   print("Let's vibe coding there! 💡")
    ```
 
 - Run
@@ -46,6 +46,6 @@ Launch secure and reliable SaaS products in no time with no code ⚡️
    print("Let’s share your progress with the world! 🌍")
    ```
 
-## Contributing
+## Contribution
 
-- Let's give saas-fast-nocode a star! 🌟
+- Let's give saas-fast-vibe a star! 🌟
